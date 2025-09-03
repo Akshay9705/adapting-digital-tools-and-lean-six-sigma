@@ -116,7 +116,7 @@ Every number, plot, and table in Chapter 4 can be reproduced directly from the c
 
 ---
 
-✅ With this README, an examiner can:
+✅ With this README, reader can:
 - Instantly see repo structure
 - Know which dataset goes where
 - Run each study with one command
